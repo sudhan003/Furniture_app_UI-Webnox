@@ -1,16 +1,12 @@
 # webnox_assignment
 
-A new Flutter project.
+Responsive Flutter UI 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Home Screen
 
-A few resources to get you started if this is your first Flutter project:
+![home_page](https://github.com/sudhan003/webnox_task/assets/110588490/c0aa5b32-131c-4787-9416-3f7dd3f4c90b)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Living Room Furniture Screen
+![living_room_furniture_page](https://github.com/sudhan003/webnox_task/assets/110588490/925da20d-29ba-400e-9e0a-ea99f5500a9e)
