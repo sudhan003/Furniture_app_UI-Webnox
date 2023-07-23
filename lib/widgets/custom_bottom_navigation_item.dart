@@ -1,4 +1,3 @@
-import 'package:provider/provider.dart';
 import 'package:webnox_assignment/all_imports.dart';
 
 class CustomBottomNavigationBar extends StatefulWidget {
@@ -44,10 +43,12 @@ class _CustomBottomNavigationBarState extends State<CustomBottomNavigationBar> {
                   ? Image.asset(
                       'assets/icons/my_order_ontap_icon.png',
                       height: 30,
+                      width: 26,
                     )
                   : Image.asset(
                       'assets/icons/my_order_icon.png',
                       height: 30,
+                      width: 26,
                     ),
               label: 'My Order',
             ),
@@ -56,10 +57,12 @@ class _CustomBottomNavigationBarState extends State<CustomBottomNavigationBar> {
                   ? Image.asset(
                       'assets/icons/my_favourite_ontap_icon.png',
                       height: 30,
+                      width: 25,
                     )
                   : Image.asset(
                       'assets/icons/my_favourite_icon.png',
                       height: 30,
+                      width: 25,
                     ),
               label: 'My Favorite',
             ),
@@ -67,11 +70,11 @@ class _CustomBottomNavigationBarState extends State<CustomBottomNavigationBar> {
               icon: model.onSelectedIndex == 3
                   ? Image.asset(
                       'assets/icons/profile_ontap_icon.png',
-                      height: 30,
+                      height: 32,
                     )
                   : Image.asset(
                       'assets/icons/profile_icon.png',
-                      height: 30,
+                      height: 32,
                     ),
               label: 'Profile',
             ),
